@@ -7,46 +7,6 @@
         "quantity": 2,
         "measure": "CUP",
         "ingredient": "Graham Cracker crumbs"
-      },
-      {
-        "quantity": 6,
-        "measure": "TBLSP",
-        "ingredient": "unsalted butter, melted"
-      },
-      {
-        "quantity": 0.5,
-        "measure": "CUP",
-        "ingredient": "granulated sugar"
-      },
-      {
-        "quantity": 1.5,
-        "measure": "TSP",
-        "ingredient": "salt"
-      },
-      {
-        "quantity": 5,
-        "measure": "TBLSP",
-        "ingredient": "vanilla"
-      },
-      {
-        "quantity": 1,
-        "measure": "K",
-        "ingredient": "Nutella or other chocolate-hazelnut spread"
-      },
-      {
-        "quantity": 500,
-        "measure": "G",
-        "ingredient": "Mascapone Cheese(room temperature)"
-      },
-      {
-        "quantity": 1,
-        "measure": "CUP",
-        "ingredient": "heavy cream(cold)"
-      },
-      {
-        "quantity": 4,
-        "measure": "OZ",
-        "ingredient": "cream cheese(softened)"
       }
     ],
     "steps": [
