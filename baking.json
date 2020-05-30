@@ -8,165 +8,14 @@
         "measure": "CUP",
         "ingredient": "Graham Cracker crumbs"
       }
+      
     ],
     "steps": [
       {
         "id": 0,
         "shortDescription": "Recipe Introduction",
         "description": "Recipe Introduction",
-        "videoURL": "https://r8---sn-cnoa-pmje.googlevideo.com/videoplayback?expire=1590795862&ei=9knRXqXEMKmmz7sP5L-aUA&ip=139.99.221.248&id=o-AO1PmshwgEi_fCzXf_w_VYWm5TOiNkXx_n7TvbjxLyun&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=15698469&ratebypass=yes&dur=261.735&lmt=1582878076070515&fvip=6&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAP39XoU5a_6dpG_9EFXFcSec-hNf_VDiEzCXFUeO1ZTpAiEA5a-1I8D7VrmBilj3A2U6H2jFTxnwXtogaxS7aX0sYXw%3D&video_id=3mBpgxzAn6E&title=Full+Video-+%27Dua+Karo%27+-+Street+Dancer+3D+-+Varun+D%2CShraddha+K+-+Arijit+Singh%2C+Bohemia%2C+Sachin-Jigar&redirect_counter=1&rm=sn-25gkk7l&req_id=66d233054c0ea3ee&cms_redirect=yes&ipbypass=yes&mh=jJ&mip=117.234.10.180&mm=31&mn=sn-cnoa-pmje&ms=au&mt=1590774102&mv=m&mvi=7&pl=20&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAPl_fUZl4zfWYbO3gOeEiH6ml2z8vusdWkw9qBAJPzkiAiEArxSaFGlrHoRjrYQzwQ42DaSuBiL7WCt3oU7SCsV12yU%3D",
-        "thumbnailURL": ""
-      }
-    ],
-    "servings": 8,
-    "image": ""
-  },
-  {
-    "id": 2,
-    "name": "Brownies",
-    "ingredients": [
-      {
-        "quantity": 350,
-        "measure": "G",
-        "ingredient": "Bittersweet chocolate (60-70% cacao)"
-      },
-      {
-        "quantity": 226,
-        "measure": "G",
-        "ingredient": "unsalted butter"
-      },
-      {
-        "quantity": 300,
-        "measure": "G",
-        "ingredient": "granulated sugar"
-      },
-      {
-        "quantity": 100,
-        "measure": "G",
-        "ingredient": "light brown sugar"
-      },
-      {
-        "quantity": 5,
-        "measure": "UNIT",
-        "ingredient": "large eggs"
-      },
-      {
-        "quantity": 1,
-        "measure": "TBLSP",
-        "ingredient": "vanilla extract"
-      },
-      {
-        "quantity": 140,
-        "measure": "G",
-        "ingredient": "all purpose flour"
-      },
-      {
-        "quantity": 40,
-        "measure": "G",
-        "ingredient": "cocoa powder"
-      },
-      {
-        "quantity": 1.5,
-        "measure": "TSP",
-        "ingredient": "salt"
-      },
-      {
-        "quantity": 350,
-        "measure": "G",
-        "ingredient": "semisweet chocolate chips"
-      }
-    ],
-    "steps": [
-      {
-        "id": 0,
-        "shortDescription": "Recipe Introduction",
-        "description": "Recipe Introduction",
-        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc33_-intro-brownies/-intro-brownies.mp4",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 1,
-        "shortDescription": "Starting prep",
-        "description": "1. Preheat the oven to 350�F. Butter the bottom and sides of a 9\"x13\" pan.",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 2,
-        "shortDescription": "Melt butter and bittersweet chocolate.",
-        "description": "2. Melt the butter and bittersweet chocolate together in a microwave or a double boiler. If microwaving, heat for 30 seconds at a time, removing bowl and stirring ingredients in between.",
-        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc43_1-melt-choclate-chips-and-butter-brownies/1-melt-choclate-chips-and-butter-brownies.mp4",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 3,
-        "shortDescription": "Add sugars to wet mixture.",
-        "description": "3. Mix both sugars into the melted chocolate in a large mixing bowl until mixture is smooth and uniform.",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 4,
-        "shortDescription": "Mix together dry ingredients.",
-        "description": "4. Sift together the flour, cocoa, and salt in a small bowl and whisk until mixture is uniform and no clumps remain. ",
-        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc9e_4-sift-flower-add-coco-powder-salt-brownies/4-sift-flower-add-coco-powder-salt-brownies.mp4",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 5,
-        "shortDescription": "Add eggs.",
-        "description": "5. Crack 3 eggs into the chocolate mixture and carefully fold them in. Crack the other 2 eggs in and carefully fold them in. Fold in the vanilla.",
-        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdc62_2-mix-egss-with-choclate-butter-brownies/2-mix-egss-with-choclate-butter-brownies.mp4",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 6,
-        "shortDescription": "Add dry mixture to wet mixture.",
-        "description": "6. Dump half of flour mixture into chocolate mixture and carefully fold in, just until no streaks remain. Repeat with the rest of the flour mixture. Fold in the chocolate chips.",
-        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdcc8_5-mix-wet-and-cry-batter-together-brownies/5-mix-wet-and-cry-batter-together-brownies.mp4",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 7,
-        "shortDescription": "Add batter to pan.",
-        "description": "7. Pour the batter into the prepared pan and bake for 30 minutes.",
-        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdcf4_8-put-brownies-in-oven-to-bake-brownies/8-put-brownies-in-oven-to-bake-brownies.mp4",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 8,
-        "shortDescription": "Remove pan from oven.",
-        "description": "8. Remove the pan from the oven and let cool until room temperature. If you want to speed this up, you can feel free to put the pan in a freezer for a bit.",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 9,
-        "shortDescription": "Cut and serve.",
-        "description": "9. Cut and serve.",
-        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdcf9_9-final-product-brownies/9-final-product-brownies.mp4",
-        "thumbnailURL": ""
-      }
-    ],
-    "servings": 8,
-    "image": ""
-  },
-  {
-    "id": 1,
-    "name": "New cake",
-    "ingredients": [
-      {
-        "quantity": 2,
-        "measure": "CUP",
-        "ingredient": "Graham Cracker crumbs"
-      }
-    ],
-    "steps": [
-      {
-        "id": 0,
-        "shortDescription": "New Introduction",
-        "description": "Recipe Introduction",
-        "videoURL": "https://r8---sn-cnoa-pmje.googlevideo.com/videoplayback?expire=1590795862&ei=9knRXqXEMKmmz7sP5L-aUA&ip=139.99.221.248&id=o-AO1PmshwgEi_fCzXf_w_VYWm5TOiNkXx_n7TvbjxLyun&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=15698469&ratebypass=yes&dur=261.735&lmt=1582878076070515&fvip=6&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAP39XoU5a_6dpG_9EFXFcSec-hNf_VDiEzCXFUeO1ZTpAiEA5a-1I8D7VrmBilj3A2U6H2jFTxnwXtogaxS7aX0sYXw%3D&video_id=3mBpgxzAn6E&title=Full+Video-+%27Dua+Karo%27+-+Street+Dancer+3D+-+Varun+D%2CShraddha+K+-+Arijit+Singh%2C+Bohemia%2C+Sachin-Jigar&redirect_counter=1&rm=sn-25gkk7l&req_id=66d233054c0ea3ee&cms_redirect=yes&ipbypass=yes&mh=jJ&mip=117.234.10.180&mm=31&mn=sn-cnoa-pmje&ms=au&mt=1590774102&mv=m&mvi=7&pl=20&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAPl_fUZl4zfWYbO3gOeEiH6ml2z8vusdWkw9qBAJPzkiAiEArxSaFGlrHoRjrYQzwQ42DaSuBiL7WCt3oU7SCsV12yU%3D",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffd974_-intro-creampie/-intro-creampie.mp4",
         "thumbnailURL": ""
       }
     ],
@@ -599,6 +448,111 @@
     ],
     "servings": 8,
     "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Newcake",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "measure": "CUP",
+        "ingredient": "Graham Cracker crumbs"
+      }
+    ],
+    "steps": [
+      {
+        "id": 0,
+        "shortDescription": "Recipe Introduction",
+        "description": "Recipe Introduction",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdae8_-intro-cheesecake/-intro-cheesecake.mp4",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 1,
+        "shortDescription": "Starting prep.",
+        "description": "1. Preheat the oven to 350\u00b0F. Grease the bottom of a 9-inch round springform pan with butter. ",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 2,
+        "shortDescription": "Prep the cookie crust.",
+        "description": "2. To assemble the crust, whisk together the cookie crumbs, 50 grams (1/4 cup) of sugar, and 1/2 teaspoon of salt for the crust in a medium bowl. Stir in the melted butter and 1 teaspoon of vanilla extract until uniform. ",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb1d_2-form-crust-to-bottom-of-pan-cheesecake/2-form-crust-to-bottom-of-pan-cheesecake.mp4",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 3,
+        "shortDescription": "Start water bath.",
+        "description": "3. Fill a large roasting pan with a few inches of hot water and place it on the bottom rack of the oven.",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 4,
+        "shortDescription": "Prebake cookie crust. ",
+        "description": "4. Press the cookie mixture into the bottom and slightly up the sides of the prepared pan. Bake for 11 minutes and then let cool.",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 5,
+        "shortDescription": "Mix cream cheese and dry ingredients.",
+        "description": "5. Beat the cream cheese, remaining 200 grams (1 cup) of sugar, and remaining 1/2 teaspoon salt on medium speed in a stand mixer with the paddle attachment for 3 minutes (or high speed if using a hand mixer). ",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb3a_3-mix-sugar-salt-together-cheesecake/3-mix-sugar-salt-together-cheesecake.mp4",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 6,
+        "shortDescription": "Add eggs.",
+        "description": "6. Scrape down the sides of the pan. Add in the eggs one at a time, beating each one on medium-low speed just until incorporated. Scrape down the sides and bottom of the bowl. Add in both egg yolks and beat until just incorporated. ",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb55_4-add-eggs-mix-cheesecake/4-add-eggs-mix-cheesecake.mp4",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 7,
+        "shortDescription": "Add heavy cream and vanilla.",
+        "description": "7. Add the cream and remaining tablespoon of vanilla to the batter and beat on medium-low speed until just incorporated. ",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb72_5-mix-vanilla-cream-together-cheesecake/5-mix-vanilla-cream-together-cheesecake.mp4",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 8,
+        "shortDescription": "Pour batter in pan.",
+        "description": "8. Pour the batter into the cooled cookie crust. Bang the pan on a counter or sturdy table a few times to release air bubbles from the batter.",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdb88_6-add-the-batter-to-the-pan-w-the-crumbs-cheesecake/6-add-the-batter-to-the-pan-w-the-crumbs-cheesecake.mp4",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 9,
+        "shortDescription": "Bake the cheesecake.",
+        "description": "9. Bake the cheesecake on a middle rack of the oven above the roasting pan full of water for 50 minutes. ",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 10,
+        "shortDescription": "Turn off oven and leave cake in.",
+        "description": "10. Turn off the oven but keep the cheesecake in the oven with the door closed for 50 more minutes.",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 11,
+        "shortDescription": "Remove from oven and cool at room temperature.",
+        "description": "11. Take the cheesecake out of the oven. It should look pale yellow or golden on top and be set but still slightly jiggly. Let it cool to room temperature. ",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 12,
+        "shortDescription": "Final cooling and set.",
+        "description": "12. Cover the cheesecake with plastic wrap, not allowing the plastic to touch the top of the cake, and refrigerate it for at least 8 hours. Then it's ready to serve!",
+        "videoURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ffdbac_9-finished-product-cheesecake/9-finished-product-cheesecake.mp4",
+        "thumbnailURL": ""
+      }
+    ],
+    "servings": 8,
+    "image": ""
   }
 ]
-
