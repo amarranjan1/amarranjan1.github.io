@@ -2,6 +2,10 @@
   {
     "id": 1,
     "name": "Nutella Pie",
+    "title": "Nutella Pie",
+     "thumb": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be60_ebooks/ebooks.jpg",
+        "photo": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be60_ebooks/ebooks.jpg",
+        "aspect_ratio": 1.5000,
     "ingredients": [
       {
         "quantity": 2,
