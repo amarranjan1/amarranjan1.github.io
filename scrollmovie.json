@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Nutella Pie",
+    "name": "1/4",
     "image": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be64_sleepyhollow/sleepyhollow.jpg",
     "ingredients": [
       {
@@ -25,7 +25,7 @@
   },
   {
     "id": 2,
-    "name": "Brownies",
+    "name": "2/4",
     "image": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be64_sleepyhollow/sleepyhollow.jpg",
     "ingredients": [
       {
@@ -48,7 +48,7 @@
   },
   {
     "id": 3,
-    "name": "Yellow Cake",
+    "name": "3/4",
     "image": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be64_sleepyhollow/sleepyhollow.jpg",
     "ingredients": [
       {
@@ -71,7 +71,7 @@
   },
   {
     "id": 4,
-    "name": "Cheesecake",
+    "name": "4/4",
     "image": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be64_sleepyhollow/sleepyhollow.jpg",
     "ingredients": [
       {
