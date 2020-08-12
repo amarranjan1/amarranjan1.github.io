@@ -20,14 +20,14 @@
     "steps": [
       {
         "id": 0,
-        "Title": "Dil Bechara",
-        "Year": "2020",
-        "Genre": "Comedy, Drama, Romance",
-        "Actors": "Sushant Singh Rajput, Sanjana Sanghi, Sahil Vaid, Saswata Chatterjee",
-        "Plot": "The emotional journey of two hopelessly in love youngsters, a young girl, Kizie, suffering from cancer, and a boy, Manny, who she meets at a support group.",
-        "Language": "Hindi",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNmI0MTliMTAtMmJhNC00NTJmLTllMzQtMDI3NzA1ODMyZWI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-        "imdbRating": "9.3",
+        "STitle": "Dil Bechara",
+        "SYear": "2020",
+        "SGenre": "Comedy, Drama, Romance",
+        "SActors": "Sushant Singh Rajput, Sanjana Sanghi, Sahil Vaid, Saswata Chatterjee",
+        "SPlot": "The emotional journey of two hopelessly in love youngsters, a young girl, Kizie, suffering from cancer, and a boy, Manny, who she meets at a support group.",
+        "SLanguage": "Hindi",
+        "SPoster": "https://m.media-amazon.com/images/M/MV5BNmI0MTliMTAtMmJhNC00NTJmLTllMzQtMDI3NzA1ODMyZWI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "SimdbRating": "9.3",
         "videoURL": "https://videodl.djmazadownload.xyz/storage/0617/Darasal%20Full%20Video%20Song%20%20Raabta%20DJMaza.Life.mp4",
         "thumbnailURL": "https://cdn.pixabay.com/photo/2017/08/30/17/26/analytics-2697949_960_720.jpg"
       }
