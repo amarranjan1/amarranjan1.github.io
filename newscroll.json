@@ -21,8 +21,7 @@
         "thumbnailURL": "https://cdn.pixabay.com/photo/2017/08/30/17/26/analytics-2697949_960_720.jpg"
       }
     ],
-    "servings": 8,
-    "image": ""
+
   },
   {
     "id": 2,
@@ -45,8 +44,7 @@
         "thumbnailURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be64_sleepyhollow/sleepyhollow.jpg"
       }
     ],
-    "servings": 8,
-    "image": ""
+   
   },
   {
     "id": 3,
@@ -69,8 +67,7 @@
         "thumbnailURL": "https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58c5be64_sleepyhollow/sleepyhollow.jpg"
       }
     ],
-    "servings": 8,
-    "image": ""
+   
   },
   {
     "id": 4,
@@ -93,8 +90,7 @@
         "thumbnailURL": "https://html5demos.com/assets/dizzy.mp4"
       }
     ],
-    "servings": 8,
-    "image": ""
+   
   },
    {
     "id": 5,
@@ -117,7 +113,6 @@
         "thumbnailURL": "https://cdn.pixabay.com/photo/2020/02/28/15/35/bird-4887736_960_720.jpg"
       }
     ],
-    "servings": 8,
-    "image": ""
+    
   }
 ]
